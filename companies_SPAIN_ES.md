@@ -10,20 +10,20 @@
 
 | Datos de la empresa ||
 | --- | ---|
-| Denominación social| __________ |
-|Sede social| __________|
-|Email| __________|
-|Teléfono| __________ |
-|Representante| __________ |
+| Denominación social| ____IDEADERO, S.L.(GLAMPING HUB)______ |
+|Sede social| _C/ CUESTA DEL ROSARIO Nº8, CASA 1, C.P.41002, SEVILLA, ESPAÑA________|
+|Email| _MERCEDESLUQUE@GLAMPINGHUB.COM_________|
+|Teléfono| ___954871116_______ |
+|Representante| _TALAL BENJELLOUN________ |
 
-En adelante de la EMPRESA
+En adelante de la EMPRESA 
 
-| Datos del Representante ||
+| Datos del Representante || 
 | --- | --- |
-| Nombre / Denominación social | __________ |
-| Domicilio/Sede social | __________ |
-| Email | __________ |
-| Teléfono | __________ |
+| Nombre / Denominación social | |
+| Domicilio/Sede social | 
+| Email | 
+| Teléfono |
 | Representante| __________ |
 
 En adelante el REPRESENTANTE
